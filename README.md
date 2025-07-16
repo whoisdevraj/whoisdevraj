@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/devraj-deshmukh">Devraj Deshmukh</a></h1>
-<h3 align="center">A FullStack Developer and Deep Learning Enthusiast 🚀</h3>
+<h3 align="center"> Developer 🚀</h3>
 
 </p>
 <p align="center">
